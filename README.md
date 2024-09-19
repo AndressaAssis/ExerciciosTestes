@@ -1,9 +1,9 @@
-# Algoritmos Diversos em Portugol
+#  💥 Algoritmos Diversos em Portugol  💥
 
 ## Introdução
 Este projeto contém uma série de algoritmos desenvolvidos em **Portugol**, abordando diferentes problemas como o cálculo de custos com fraldas, a conversão de tempo em segundos para o formato hora:minuto:segundo, cálculo de idade, verificação de velocidade, pesagem de atletas e a determinação da maior e menor idade entre um grupo de jogadores.
 
-## Índice
+## Índice 📄
 - [Cálculo de Gasto Mensal com Fraldas](#cálculo-de-gasto-mensal-com-fraldas)
 - [Conversão de Segundos para Hora:Minuto:Segundo](#conversão-de-segundos-para-horaminutosegundo)
 - [Cálculo de Idade](#cálculo-de-idade)
@@ -47,6 +47,7 @@ Este projeto contém uma série de algoritmos desenvolvidos em **Portugol**, abo
 ## Instalação
 1. Baixe e instale o Visualg ou qualquer outro interpretador de Portugol.
 2. Faça o download ou clone o repositório contendo os códigos dos exercícios.
+
 `git clone https://github.com/seu-usuario/algoritmos-portugol.git`
 3. Abra os arquivos .alg no Visualg ou no interpretador escolhido e execute os programas.
 
