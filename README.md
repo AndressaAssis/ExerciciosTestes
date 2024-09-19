@@ -47,8 +47,7 @@ Este projeto contém uma série de algoritmos desenvolvidos em **Portugol**, abo
 ## Instalação
 1. Baixe e instale o Visualg ou qualquer outro interpretador de Portugol.
 2. Faça o download ou clone o repositório contendo os códigos dos exercícios.
-
-`git clone https://github.com/seu-usuario/algoritmos-portugol.git`
+<\br> `git clone https://github.com/seu-usuario/algoritmos-portugol.git`
 3. Abra os arquivos .alg no Visualg ou no interpretador escolhido e execute os programas.
 
 ## Como Usar
